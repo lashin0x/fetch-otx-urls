@@ -24,3 +24,4 @@ This script requires:
    ```bash
    git clone https://github.com/lashin0x/fetch-otx-urls.git
    cd fetch-otx-urls
+   chmod +x fetch-otx-urls
